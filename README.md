@@ -4,7 +4,7 @@ Paciência Spider feito em C.
 Projeto feito para a disciplina de Algoritmos e Estrutura de Dados.
 Professor: Marcos Duarte
 
-Autor: Francisco Klismark Barbosa
+Autor: Klismark Barbosa
 
 CHEATS{
   0   - Chama o monte
